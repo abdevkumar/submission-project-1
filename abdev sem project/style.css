@@ -1,0 +1,38 @@
+body{
+    /* background-color: lightblue; */
+    text-align: center;
+    /* background-image: url(2.png); */
+}
+h2{
+    font-weight: bolder;
+    margin-top: 20px;
+}
+ul{
+    float: centre;
+    list-style-type: none;
+    color: solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    size: 100px;
+    font-size: large;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    color: grey;
+    padding: 5px 30px;
+    border: 3px solid transparent;
+
+}
+footer{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+P{
+    font-size: larger;
+}
